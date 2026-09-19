@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+backend/.cache/
+# node
+frontend/node_modules/
+frontend/dist/
+# misc
+.DS_Store
+*.xlsx
+!docs/*.xlsx
+.env
+site/
+frontend/dist-static/
